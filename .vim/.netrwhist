@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/mindlunny/Documentos/Focused/backend_life/src'
+let g:netrw_dirhist_7='/home/mindlunny/Documentos/Focused/backend_life'
+let g:netrw_dirhist_6='/home/mindlunny/Documentos/U_project/backend/src/main/java/collab/backend'
+let g:netrw_dirhist_5='/home/mindlunny/Documentos/U_project/backend/src/main/java/collab'
+let g:netrw_dirhist_4='/home/mindlunny/Documentos/U_project/backend/src/main/java'
+let g:netrw_dirhist_3='/home/mindlunny/Documentos/U_project/backend/src/main'
+let g:netrw_dirhist_2='/home/mindlunny/Documentos/U_project/backend/src'
+let g:netrw_dirhist_1='/home/mindlunny/Documentos/U_project/backend'
